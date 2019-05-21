@@ -1,0 +1,10 @@
+tuple_list = (2, 4, 3, 5, 4, 6, 7, 8, 6, 1)
+print(tuple_list[0:])
+print(tuple_list[:])
+print(tuple_list[2:4])
+print(tuple_list[1:3])
+print(tuple_list[:4])
+print(tuple_list[:-1])
+print(tuple_list[:-4])
+print(tuple_list[-3:])
+
